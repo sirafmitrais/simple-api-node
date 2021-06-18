@@ -1,0 +1,23 @@
+{
+  "name": "task-api-node",
+  "version": "1.0.0",
+  "description": "to finish simple api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirafmitrais/simple-api-node.git"
+  },
+  "keywords": [
+    "api",
+    "simpleapi"
+  ],
+  "author": "Rizky Muhammad Faris Prakoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirafmitrais/simple-api-node/issues"
+  },
+  "homepage": "https://github.com/sirafmitrais/simple-api-node#readme"
+}
